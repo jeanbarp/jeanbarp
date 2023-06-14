@@ -2,9 +2,6 @@
 
 💻Estudante de Ciência da Computação.<br>
 📩Email: jeangavabarp4@gmail.com
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanbarp&layout=dark&langs_count=7&theme=tokyonight"/>
-
 <br>
 <div> 
   <a href="https://instagram.com/jean.barp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
