@@ -1,6 +1,5 @@
 ### Hello World! Eu sou o Jean Barp👋
 
-💻Estudante de Ciência da Computação.<br>
 📩Email: jeangavabarp4@gmail.com
 <br>
 <div style="display: inline_block"><br>
